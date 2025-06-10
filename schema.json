@@ -168,14 +168,21 @@
             "type": "select",
             "key": "language",
             "options": [
-              "pt",
               "en",
-              "fr",
+              "pt",
               "es",
-              "ru"
+              "ru",
+              "fr",
+              "de",
+              "nl",
+              "zh-CN",
+              "ko",
+              "sv",
+              "no",
+              "hi"
             ],
             "label": "language",
-            "defaultValue": "pt"
+            "defaultValue": "en"
           },
           {
             "type": "event",
